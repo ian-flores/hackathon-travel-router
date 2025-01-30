@@ -1,0 +1,12 @@
+{
+    "https://connect.posit.it": {
+        "server_url": "https://connect.posit.it",
+        "filename": "/Users/ianfloressiaca/hackathon-travel-router",
+        "app_url": "https://connect.posit.it/content/04877ac9-9c27-4895-98a0-668f4ad1bc3d/",
+        "app_id": "04877ac9-9c27-4895-98a0-668f4ad1bc3d",
+        "app_guid": "04877ac9-9c27-4895-98a0-668f4ad1bc3d",
+        "title": "hackathon-travel-router",
+        "app_mode": "python-streamlit",
+        "app_store_version": 1
+    }
+}
